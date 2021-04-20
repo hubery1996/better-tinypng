@@ -1,0 +1,19 @@
+{
+  "name": "better-tinypng",
+  "version": "1.0.0",
+  "description": "TinyPNG API wrapper for compressing PNG & JPG images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubery1996/better-tinypng.git"
+  },
+  "keywords": [
+    "compress PNG & JPG images",
+    "TinyPNG"
+  ],
+  "author": "hubery1996",
+  "license": "ISC"
+}
